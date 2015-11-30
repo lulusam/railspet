@@ -8,7 +8,7 @@ Choose how you will setup your project:
 ## Setup Instructions
 
 If you don't have Ruby on Rails already installed on your machine, I **_HIGHLY_** recommend
-following these [steps](#cloud9) for setting this up on Cloud9, a web-based dev environment.
+following the [steps for Cloud9 Setup](#cloud9-setup) instead!
 
 #### Local Machine Setup
 
