@@ -31,7 +31,7 @@ _Only_ if you already have successfully installed Ruby on Rails on your local ma
 
 If these steps were not successful for you, no fear!  You can easily set this up on a web-based dev environment - [Cloud9](http://c9.io)!  [See below!](#cloud9-setup)
 
-#### Cloud9 Setup   **_Highly Recommended_**
+#### Cloud9 Setup   **_(* Highly Recommended)_**
 
   This is the easiest way to get this project up and running no matter what OS or computer setup you have!
 
