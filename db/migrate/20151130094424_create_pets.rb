@@ -4,6 +4,7 @@ class CreatePets < ActiveRecord::Migration
       t.string :name
       t.string :picture
       t.integer :max_weight
+      t.timestamps
     end
   end
 end
