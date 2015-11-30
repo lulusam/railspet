@@ -29,10 +29,9 @@ _Only_ if you already have successfully installed Ruby on Rails on your local ma
   6.  To stop the rails server, in the terminal, press the `CTRL` key & `c`
 
 
-If these steps were not successful for you, no fear!  You can easily set this up on a web-based dev environment, Cloud9... [See below!](#cloud9-setup)
+If these steps were not successful for you, no fear!  You can easily set this up on a web-based dev environment, Cloud9... See below!
 
 #### Cloud9 Setup
-**_(* Highly Recommended)_**
 
   This is the easiest way to get this project up and running no matter what OS or computer setup you have!
 
