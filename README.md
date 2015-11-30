@@ -57,4 +57,4 @@ If these steps were not successful for you, no fear!  You can easily set this up
 
 ## Problems? :-(
 
-Are you stuck?  If you are having issues with the setup, don't fret!  Reach out to [me](mailto:traumverloren@gmail.com) or post a message on the [RailsGirls-NL meetup page!](http://www.meetup.com/RailsGirls-NL/).  Also, please come early to the meetup, and we'll help you out before the workshop officially begins!
+Are you stuck?  If you are having issues with the setup, don't fret!  Reach out to [me](mailto:traumverloren@gmail.com) or post a message on the [RailsGirls-NL meetup page](http://www.meetup.com/RailsGirls-NL/).  Also, please come early to the meetup, and we'll help you out before the workshop officially begins!
