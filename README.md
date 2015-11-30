@@ -42,7 +42,8 @@ If these steps were not successful for you, no fear!  You can easily set this up
   5.  Add a **Description** if you like.
   6.  Make sure **Hosted workspace** tab is selected and fill in as follows:
       - Make sure `Public` is selected.
-      - Fill in **Clone from Git or Mercurial URL** with `https://github.com/traumverloren/railspet.git`
+      - Fill in **Clone from Git or Mercurial URL** with
+        `https://github.com/traumverloren/railspet.git`
   7.  Don't worry about selecting anything in **Choose a template**!
   8.  Click on **Create Workspace**.
   9.  When the project workspace loads, then click on **+** sign in the bottom half of the screen and select **New Terminal**.
