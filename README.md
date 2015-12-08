@@ -26,7 +26,7 @@ _Only_ if you already have successfully installed Ruby on Rails on your local ma
       - In the terminal, type: `bin/rails server`
       - This will start the rails server so we can preview our app.  
   5.  Open a new browser window and go to: `localhost:3000` .  You should see the title **My Pets**.  Woohoo!  Success!  Party time!
-  6.  To stop the rails server, in the terminal, press the CTRL` key & `c`
+  6.  To stop the rails server, in the terminal, press the `CTRL` key & `c`
 
 
 If these steps were not successful for you, no fear!  You can easily set this up on a web-based dev environment, Cloud9... See below!
