@@ -16,7 +16,7 @@ Do you already have Ruby on Rails successfully installed on your machine?
 
 _Only_ if you already have successfully installed Ruby on Rails on your local machine, follow these steps:
   1.  Git clone this repo onto your local machine.  
-      - In the terminal, type `git clone: https://github.com/traumverloren/railspet.git`
+      - In the terminal, type `git clone https://github.com/traumverloren/railspet.git`
       - Make sure you are in your projects folder or wherever you want to store your projects.
   2.  Navigate into this folder by typing `cd railspet`
   2.  Next, type: `bundle install`
