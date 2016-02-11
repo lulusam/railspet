@@ -25,7 +25,7 @@ class PetsController < ApplicationController
     @pet = Pet.new(pet_params)
 
     if @pet.save
-      redirect_to @pet
+      redirect_to pets_path
     else
       render 'new'
     end
@@ -44,7 +44,7 @@ class PetsController < ApplicationController
 
   def destroy
     @pet = Pet.find(params[:id])
-    @pet.destroy   
+    @pet.destroy
     redirect_to pets_path
   end
 
